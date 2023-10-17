@@ -8,7 +8,7 @@ import Registro from "./Registro/Registro"
 function App () {
   return (
     <>
-    <Registro/>
+    <Login/>
     </>
   )
 }
